@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.nap.sprut.service.impl.LookupManagerImplTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.769 sec - in com.nap.sprut.service.impl.LookupManagerImplTest
